@@ -1,4 +1,4 @@
-let a = 25;
+let a = 250;
 let b = 2;
 
-console.log(a+b)
+console.log(a + b)
